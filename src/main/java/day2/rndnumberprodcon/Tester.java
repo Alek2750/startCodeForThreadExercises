@@ -1,5 +1,6 @@
 package day2.rndnumberprodcon;
 
+import Day2.Ex3.RandomNumberProducer;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

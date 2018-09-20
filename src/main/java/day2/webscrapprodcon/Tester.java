@@ -18,6 +18,11 @@ public class Tester {
     urls.add("http://www.google.com");
     urls.add("http://politiken.dk");
     urls.add("https://cphbusiness.mrooms.net/");
+    urls.add("https://my.pottermore.com/account/login");
+    urls.add("https://darksouls3.wiki.fextralife.com/Rings");
+    urls.add("https://www.youtube.com/watch?v=cgwlJIo0In0");
+    urls.add("https://www.cymath.com/");
+    urls.add("https://www.ikea.com/dk/da/catalog/products/S09214148/");
     //TODO: Add some more URL's of your own choice
 
     //Holds the Documents produced by the producers. This is Q2 in the exercise figure
